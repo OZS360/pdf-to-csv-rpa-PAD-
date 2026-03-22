@@ -9,7 +9,10 @@ ExcelとDataTableを組み合わせてデータ整形を行っています。
 
 ## ■ フロー全体
 
-（ここに全体スクリーンショットを貼る）
+![flow1](flow1(PDF抽出).png)
+![flow2](flow2(不要行削除).png)
+![flow3](flow3(不要列削除).png)
+![flow4](flow4(CSV保存).png)
 
 ---
 

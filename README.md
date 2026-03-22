@@ -14,6 +14,20 @@ ExcelとDataTableを組み合わせてデータ整形を行っています。
 ![flow3](flow3(不要列削除).png)
 ![flow4](flow4(CSV保存).png)
 
+## 各処理
+
+### PDF抽出
+![PDF抽出](flow1(PDF抽出).png)
+
+### 不要行削除
+![不要行削除](flow2(不要行削除).png)
+
+### 不要列削除
+![不要列削除](flow3(不要列削除).png)
+
+### CSV出力
+![CSV出力](flow4(CSV保存).png)
+
 ---
 
 ## ■ 処理の流れ
